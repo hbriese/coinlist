@@ -1,0 +1,9 @@
+import React from "react";
+import { render, screen } from "@testing-library/react";
+import { Coins } from "../components/Coins";
+
+// test("renders learn react link", () => {
+//   render(<Coins />);
+//   const linkElement = screen.getByText(/Markets/i);
+//   expect(linkElement).toBeInTheDocument();
+// });
