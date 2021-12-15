@@ -1,4 +1,3 @@
-import React from "react";
 import { render, screen } from "@testing-library/react";
 import { CoinCard } from "../components/CoinCard";
 import { BTC_COIN } from "./data";
